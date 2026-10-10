@@ -1,0 +1,5 @@
+patient_id,vaccine_id,date,dose_number,lot_number,source
+P001,HEPB,2026-08-15,1,GSK12345,emr
+P002,DTAP,2024-05-04,1,,emr
+P002,DTAP,2024-07-06,2,,emr
+P002,MMR,2025-03-10,1,,registry

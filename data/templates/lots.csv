@@ -1,0 +1,5 @@
+product_id,lot_number,funding_source,quantity,expires_on,unit_cost,location,received_on
+PCV20,PFZ55512,PRIVATE,6,2027-06-30,255,Fridge 1 (private),2026-09-01
+PCV20,PFZ55513,VFC,4,2027-04-30,,Fridge 2 (VFC),2026-09-01
+DTAP,GSK77001,PRIVATE,12,2027-02-28,30,Fridge 1 (private),2026-09-01
+RESP_PCR,CEP90001,PRIVATE,10,2027-01-31,62,Lab cabinet B,2026-09-15

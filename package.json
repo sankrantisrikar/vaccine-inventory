@@ -1,0 +1,21 @@
+{
+  "name": "pediatric-vaccine-inventory",
+  "version": "0.1.0",
+  "description": "Vaccine & supply inventory management for pediatric practices, integrated with scheduling, eligibility and billing (prototype)",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/seed.js",
+    "test": "node --test test/*.test.js",
+    "import": "node scripts/import.js",
+    "validate": "node scripts/import.js data/templates --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
